@@ -1,0 +1,8 @@
+E:\Code\iLocker\iLocker\bin\Debug\iLocker.exe.config
+E:\Code\iLocker\iLocker\bin\Debug\iLocker.exe
+E:\Code\iLocker\iLocker\bin\Debug\iLocker.pdb
+E:\Code\iLocker\iLocker\obj\Debug\iLocker.iLockerForm.resources
+E:\Code\iLocker\iLocker\obj\Debug\iLocker.Properties.Resources.resources
+E:\Code\iLocker\iLocker\obj\Debug\iLocker.csproj.GenerateResource.Cache
+E:\Code\iLocker\iLocker\obj\Debug\iLocker.exe
+E:\Code\iLocker\iLocker\obj\Debug\iLocker.pdb
